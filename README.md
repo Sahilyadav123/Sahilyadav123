@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahilyadav123
-- 👀 I’m interested in learning new things probably everything
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning C++ and web development.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate in development.
 - 📫 How to reach me 
 https://www.linkedin.com/in/sahil-yadav-126989201
 <!---
