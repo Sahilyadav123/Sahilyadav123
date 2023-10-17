@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahilyadav123
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Python and Data Science.
+- 🌱 I’m currently learning Web Development and Data Science.
 - 💞️ I’m looking to collaborate in development.
 - 📫 How to reach me 
 https://www.linkedin.com/in/sahil-yadav-126989201
