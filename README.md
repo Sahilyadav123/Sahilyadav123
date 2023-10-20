@@ -1,6 +1,6 @@
-![logo](https://github.com/Sahilyadav123/Sahilyadav123/blob/main/ai-generated-8028054_1280.jpg)
+![logo](https://github.com/Sahilyadav123/Sahilyadav123/blob/main/ai-generated-8028054_1280.png)
 <h1 align="center">Hi 👋, I'm Sahil Yadav</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">An Aspiring Software developer from India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilyadav123&label=Profile%20views&color=0e75b6&style=flat" alt="sahilyadav123" /> </p>
