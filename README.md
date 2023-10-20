@@ -1,4 +1,5 @@
-
+![Your Logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/emerging-tech-banner.png?itok=3LiWBxoB)
+<!-- https://github.com/Sahilyadav123/Sahilyadav123/blob/main/ai%20generated.jpg -->
 <h1 align="center">Hi 👋, I'm Sahil Yadav</h1>
 <h3 align="center">An Aspiring Software developer from India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" >
@@ -23,8 +24,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilyadav123" alt="sahilyadav123" width="500" align="left" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilyadav123&show_icons=true&locale=en" alt="sahilyadav123" width="450" height="250" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilyadav123" alt="sahilyadav123" width="400" align="left" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilyadav123&show_icons=true&locale=en" alt="sahilyadav123" width="400" height="250" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilyadav123&show_icons=true&locale=en&layout=compact" alt="sahilyadav123" /></p>
