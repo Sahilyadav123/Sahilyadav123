@@ -1,4 +1,4 @@
-![Your Logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/emerging-tech-banner.png?itok=3LiWBxoB)
+
 <!-- https://github.com/Sahilyadav123/Sahilyadav123/blob/main/ai%20generated.jpg -->
 <h1 align="center">Hi 👋, I'm Sahil Yadav</h1>
 <h3 align="center">An Aspiring Software developer from India</h3>
